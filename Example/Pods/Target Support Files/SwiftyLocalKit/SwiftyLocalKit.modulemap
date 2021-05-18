@@ -1,6 +1,0 @@
-framework module SwiftyLocalKit {
-  umbrella header "SwiftyLocalKit-umbrella.h"
-
-  export *
-  module * { export * }
-}
